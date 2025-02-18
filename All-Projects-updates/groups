@@ -1,0 +1,10 @@
+# UUID                                  	Group Name
+#
+430116d9babbd49b3eb8afeee553ffec2e1bdeed	Blocked Users
+560c9e56961f7ca79a33d76904c6a57618c6bb24	Service Users
+ee87560adff06252ba7f05a6315125749b018039	Administrators
+9102427ac770b54d822e5422b24d07a38b49e07b	sun-icla
+4698b04b58ef1acb6aba981cf2b24ed93abb3d08	sun-ccla
+global:Anonymous-Users                  	Anonymous Users
+global:Project-Owners                   	Project Owners
+global:Registered-Users                 	Registered Users

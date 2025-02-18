@@ -1,0 +1,4 @@
+*.log
+*.err
+*.swp
+data/
