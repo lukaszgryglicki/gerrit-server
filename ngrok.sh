@@ -1,2 +1,5 @@
 #!/bin/bash
-ngrok http http://localhost:8080
+while true
+do
+  ngrok http http://localhost:8080 > /dev/null
+done
