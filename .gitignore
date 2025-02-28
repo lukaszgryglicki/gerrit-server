@@ -1,4 +1,6 @@
 *.log
 *.err
 *.swp
+gerrit.config
+task.tf
 data/
