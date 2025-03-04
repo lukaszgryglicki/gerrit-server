@@ -4,4 +4,5 @@
 gerrit.config
 gerrit.config.mockapi
 task.tf
+out
 data/
