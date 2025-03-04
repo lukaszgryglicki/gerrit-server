@@ -2,5 +2,6 @@
 *.err
 *.swp
 gerrit.config
+gerrit.config.mockapi
 task.tf
 data/
